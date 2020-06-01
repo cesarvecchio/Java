@@ -20,6 +20,10 @@ public class FileWriterReader {
             //Fecha a comunicação com o arquivo
             fw.close();
             
+            
+            FileReader fr = new FileReader(file);
+            System.out.println(fr.read());
+            
         }catch(IOException e){
             e.printStackTrace();
         }
