@@ -1,2 +1,4 @@
-Escrevendo uma mensagem no arquivo
-Escrevendo a linha 2
+[1/6/2020 - H 15:14:27] Arquivo[com.mycompany.manipulandotexto.App] : Texto log meu irmão 0
+[1/6/2020 - H 15:14:29] Arquivo[com.mycompany.manipulandotexto.App] : Texto log meu irmão 1
+[1/6/2020 - H 15:14:29] Arquivo[com.mycompany.manipulandotexto.App] : Texto log meu irmão 2
+[1/6/2020 - H 15:14:31] Arquivo[com.mycompany.manipulandotexto.App] : Texto log meu irmão 3
